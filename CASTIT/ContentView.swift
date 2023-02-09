@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "lamya2")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("updated !")
+            Text("Meow !")
         }
         .padding()
     }
