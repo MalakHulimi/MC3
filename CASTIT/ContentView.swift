@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "person")
+            Image(systemName: "cloud")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
             Text("updated !")
